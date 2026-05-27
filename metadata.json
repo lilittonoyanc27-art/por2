@@ -1,0 +1,6 @@
+{
+  "name": "AprendePasado - Իսպաներենի Անցյալ Ժամանակներ",
+  "description": "Ինտերակտիվ հավելված իսպաներենի անցյալ ժամանակների ուսուցման համար (Pretérito Perfecto, Imperfecto, Indefinido)՝ երկխոսություններով, վիկտորինաներով և 2 խաղացողի համար նախատեսված 5 խաղերով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
